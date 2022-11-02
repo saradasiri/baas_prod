@@ -1,0 +1,32 @@
+#scroll-menu ::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+#image{
+  width: 70;
+  background-color: bisque;
+  padding-right: 200px;
+}
+
+#imageselected{
+  width: 100;
+  background-color: bisque;
+}
+.dsb-card-icon{
+  display: flex;
+  position: relative;
+  width: fit-content;
+  bottom: 75px;
+  left: 144px;
+  font-size: 25px;
+  background: #ff000057;
+}
+.transdata{
+  text-align: center;
+}
+
+.react-multi-carousel-list{
+  display : flex;
+  justify-content: center;
+}

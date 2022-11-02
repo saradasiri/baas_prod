@@ -1,0 +1,79 @@
+[
+    {
+        "description" : "Monthly Max Load",
+        "black_premium" : "30000",
+        "metal_black" : "100000",
+        "metal_silver" :" 120000",
+        "metal_gold" : "150000"
+    },
+    {
+        "description" : "Card Issuance Fee (USD)",
+        "black_premium" : "130",
+        "metal_black" :  "350",
+        "metal_silver" :  "350",
+        "metal_gold" :  "350"
+    },
+    {
+        "description" : "Card Replacement Fee (USD)",
+        "black_premium" : "100",
+        "metal_black" :  "200",
+        "metal_silver" :  "200",
+        "metal_gold" :  "200"
+    },
+    {
+        "description" : "Card Loading Fee (USD)",
+        "black_premium" : "1%",
+        "metal_black" :  "1%",
+        "metal_silver" :  "1%",
+        "metal_gold" :  "1%"
+    },
+    {
+        "description" : "ATM Withdrawal fee",
+        "black_premium" : "0.75%",
+        "metal_black" :  "0.75%",
+        "metal_silver" :  "0.75%",
+        "metal_gold" :  "0.75%"
+    },
+    {
+        "description" : "Check Balance Fee (ATM)",
+        "black_premium" : "Possible Charge By Acquirer Bank ATM",
+        "metal_black" :  "Possible Charge By Acquirer Bank ATM",
+        "metal_silver" :  "Possible Charge By Acquirer Bank ATM",
+        "metal_gold" :  "Possible Charge By Acquirer Bank ATM"
+    },
+    {
+        "description" : "POS and Online Fees ",
+        "black_premium" : "0.75%",
+        "metal_black" :  "0.75%",
+        "metal_silver" :  "0.75%",
+        "metal_gold" :  "0.75%"
+    },
+    {
+        "description" : "FX Fee",
+        "black_premium" : "Subjected to Interbank /Visa rates",
+        "metal_black" :  "Subjected to Interbank /Visa rates",
+        "metal_silver" :  "Subjected to Interbank /Visa rates",
+        "metal_gold" :  "Subjected to Interbank /Visa rates"
+    },
+    {
+        "description" : "ATM Withdrawal Limits",
+        "black_premium" : "Subjected to ATM limits",
+        "metal_black" :  "Subjected to ATM limits",
+        "metal_silver" :  "Subjected to ATM limits",
+        "metal_gold" :  "Subjected to ATM limits"
+    },
+    {
+        "description" : "POS/Online Spending Limits",
+        "black_premium" : "No Limits",
+        "metal_black" :  "No Limits",
+        "metal_silver" :  "No Limits",
+        "metal_gold" :  "No Limits"
+    },
+    {
+        "description" : "Supported Currencies",
+        "black_premium" : "USD",
+        "metal_black" :  "USD",
+        "metal_silver" :  "USD",
+        "metal_gold" :  "USD"
+    }
+]

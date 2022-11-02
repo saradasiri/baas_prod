@@ -1,0 +1,94 @@
+.geeks {
+  padding: 5rem;
+  justify-content: center;
+}
+
+section {
+  width: 100%;
+  min-height: 500px;
+}
+
+.pattern {
+  position: relative;
+  background-color: #f0eddf;
+  background: #faf4f3;
+}
+
+.pattern:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 215px;
+  background: url(../../assets/waves_g.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-icon {
+  padding-left: 20px;
+  border-radius: 100px;
+  width: 60px;
+  justify-content: center;
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  margin: 0 auto;
+  
+  background: linear-gradient(
+    180deg,
+    rgba(255, 249, 249, 0.34) 0%,
+    rgba(244, 226, 222, 0.72) 100%
+  );
+}
+
+#title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  /* identical to box height, or 145% */
+
+  text-align: center;
+
+  color: #1f1f1f;
+}
+
+#subtitle{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+display:flex;
+align-items: center;
+
+/* or 162% */
+
+text-align: center;
+
+color: #545454;
+}
+
+#sign-up{
+  background: linear-gradient(180deg, #F74D58 0%, #E93944 54.91%, #DE2834 100%);
+border: 1px solid #DE2834;
+box-shadow: 2px 3px 28px rgba(222, 40, 52, 0.45);
+border-radius: 60px;
+width: 170px;
+height: 66px;
+color: #fff;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+}
+
+#jumbo{
+  position: absolute;
+  width: 153px;
+ 
+  left: 195px;
+  top: 2687px;
+  
+  background: #FAEFEF;
+  border-radius: 50px;
+}
